@@ -1,22 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on A Hugo website</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on A Hugo website</description>
+    <title>Categories on Tartagalensis</title>
+    <link>https://tartagalensis.github.io/categories/</link>
+    <description>Recent content in Categories on Tartagalensis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tartagalensis.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Cienciaypolitica</title>
+      <link>https://tartagalensis.github.io/categories/cienciaypolitica/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>https://tartagalensis.github.io/categories/cienciaypolitica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elecciones</title>
+      <link>https://tartagalensis.github.io/categories/elecciones/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tartagalensis.github.io/categories/elecciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salta</title>
+      <link>https://tartagalensis.github.io/categories/salta/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tartagalensis.github.io/categories/salta/</guid>
       <description></description>
     </item>
     
