@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tartagalensis</title>
-    <link>https://tartagalensis.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Tartagalensis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://tartagalensis.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CienciaPolitica</title>
-      <link>https://tartagalensis.github.io/categories/cienciapolitica/</link>
+      <link>/categories/cienciapolitica/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tartagalensis.github.io/categories/cienciapolitica/</guid>
+      <guid>/categories/cienciapolitica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elecciones</title>
-      <link>https://tartagalensis.github.io/categories/elecciones/</link>
+      <link>/categories/elecciones/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tartagalensis.github.io/categories/elecciones/</guid>
+      <guid>/categories/elecciones/</guid>
       <description></description>
     </item>
     
     <item>
       <title>InferenciaEcologica</title>
-      <link>https://tartagalensis.github.io/categories/inferenciaecologica/</link>
+      <link>/categories/inferenciaecologica/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tartagalensis.github.io/categories/inferenciaecologica/</guid>
+      <guid>/categories/inferenciaecologica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Salta</title>
-      <link>https://tartagalensis.github.io/categories/salta/</link>
+      <link>/categories/salta/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tartagalensis.github.io/categories/salta/</guid>
+      <guid>/categories/salta/</guid>
       <description></description>
     </item>
     
