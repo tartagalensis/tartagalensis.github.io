@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Tartagalensis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>CienciaPolitica</title>
       <link>/categories/cienciapolitica/</link>
-      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/cienciapolitica/</guid>
       <description></description>
@@ -23,9 +23,27 @@
     <item>
       <title>Elecciones</title>
       <link>/categories/elecciones/</link>
-      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/elecciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PASO</title>
+      <link>/categories/paso/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/paso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salta</title>
+      <link>/categories/salta/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/salta/</guid>
       <description></description>
     </item>
     
@@ -35,15 +53,6 @@
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/inferenciaecologica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Salta</title>
-      <link>/categories/salta/</link>
-      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/salta/</guid>
       <description></description>
     </item>
     

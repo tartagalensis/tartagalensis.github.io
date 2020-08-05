@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Salta on Tartagalensis</title>
-    <link>/categories/salta/</link>
-    <description>Recent content in Salta on Tartagalensis</description>
+    <title>PASO on Tartagalensis</title>
+    <link>/categories/paso/</link>
+    <description>Recent content in PASO on Tartagalensis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/salta/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/paso/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>/cienciaypol/defendiendo-las-paso-en-salta/</guid>
       <description>Hace unos días un senador provincial coterráneo presentó en su Cámara respectiva un proyecto de ley pidiendo la “derogación de la ley 7.697 de las primarias abiertas simultáneas y obligatorias en todo el territorio de la provincia de Salta, sus modificaciones y toda otras disposición que se oponga a la presente”. Esto no es una novedad, quizás si el hecho de que se solicite en Salta. Casi todos los años, desde que las PASO entraron en vigencia, alguien decide en algún lado del país pedir su eliminación.</description>
-    </item>
-    
-    <item>
-      <title>¿Qué pasó con los votos de Isa en 2019?</title>
-      <link>/cienciaypol/inferencia-ecol%C3%B3gica-en-salta-2019/</link>
-      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/cienciaypol/inferencia-ecol%C3%B3gica-en-salta-2019/</guid>
-      <description>Es probable que esta nota falle en timing ya que estamos a días de que el gobernador Gustavo Sáenz cumpla seis meses a cargo del sillón del Grand Bourg. Aún así considero que es válido realizarse la pregunta que motiva esta nota.
-Las elecciones de 2019 representaron un cambio de época en la política salteña. La imposibilidad de reelección de Juan Manuel Urtubey a gobernador y la ausencia de la designación clara de un sucesor abrieron un abanico de dudas y posibilidades a los aspirantes a la gobernación.</description>
     </item>
     
   </channel>
