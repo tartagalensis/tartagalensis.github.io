@@ -69,7 +69,7 @@ hugo --quiet -d "$OUT.real" >/dev/null 2>&1
 assert_grep index.html 'class="acta"'
 assert_grep index.html 'MESA N\.º 0005'
 assert_grep index.html 'DISTRITO: SALTA'
-assert_grep index.html 'Elecciones, federalismo y datos, desde el Norte\.'
+assert_grep index.html 'Mis dos centavos sobre lo que pasa, desde el Norte\.'
 # orden: la más nueva primero
 primera=$(grep -oE 'href="/notas/[^"]+/"' "$OUT/index.html" | head -1)
 [ "$primera" = 'href="/notas/desarrollo-con-raices/"' ] || { echo "FALLA: orden de portada ($primera)"; FALLAS=$((FALLAS+1)); }
@@ -115,6 +115,12 @@ assert_grep index.html 'href="https://(www\.)?linkedin\.com/in/[^"]+"[^>]*>Linke
 
 # restos de citas pegadas desde ChatGPT
 for f in $(cd "$OUT" && find notas -name index.html); do refute_grep "$f" "contentReference|oaicite"; done
+
+# telegrama: "si te gustó" solo en notas
+assert_grep index.html "<p>Si querés recibir las notas nuevas cuando salgan, suscribite\.</p>"
+refute_grep index.html "Si te gustó"
+refute_grep suscribirse/index.html "Si te gustó"
+refute_grep sobre-mi/index.html "federalismo y democracia, casi siempre"
 
 # --- fin checks ---
 if [ "$FALLAS" -gt 0 ]; then echo "$FALLAS falla(s). Build en $OUT"; exit 1; fi

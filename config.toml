@@ -20,7 +20,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
   term = ["HTML"]
 
 [params]
-  description = "Elecciones, federalismo y datos, desde el Norte."
+  description = "Mis dos centavos sobre lo que pasa, desde el Norte."
   autor = "Franco Galeano"
   buttondown = "tartagalensis"
   linkedin = "https://www.linkedin.com/in/franco-galeano-arg/"
