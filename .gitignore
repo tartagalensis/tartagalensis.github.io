@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+.superpowers/
+public/
+resources/
+.hugo_build.lock

@@ -1,0 +1,9 @@
+{{ define "main" }}
+<main class="wrap">
+  <h2 class="titulo-lista">Temas</h2>
+  <table class="acta">
+    <thead><tr><th>TEMA</th><th class="f">NOTAS</th></tr></thead>
+    <tbody>{{ range .Data.Terms.Alphabetical }}<tr><td><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></td><td class="f">{{ len (where .Pages "Draft" false) }}</td></tr>{{ end }}</tbody>
+  </table>
+</main>
+{{ end }}

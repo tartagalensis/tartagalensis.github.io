@@ -1,0 +1,12 @@
+{{- $src := .Get "src" | default "" -}}
+{{- $titulo := .Get "titulo" | default "" -}}
+{{- if or (eq $src "") (eq $titulo "") -}}
+  {{- errorf "casillero: faltan src o titulo en %s" .Position -}}
+{{- end -}}
+<figure class="casillero">
+  <div class="rotulo">{{ $titulo }}</div>
+  <img src="{{ $src | relURL }}" alt="{{ $titulo }}" loading="lazy">
+  {{- if or (.Get "fuente") (.Get "link") }}
+  <div class="pie">{{ with .Get "fuente" }}Fuente: {{ . }}{{ end }}{{ if and (.Get "fuente") (.Get "link") }} · {{ end }}{{ with .Get "link" }}<a href="{{ . }}">ver interactivo</a>{{ end }}</div>
+  {{- end }}
+</figure>

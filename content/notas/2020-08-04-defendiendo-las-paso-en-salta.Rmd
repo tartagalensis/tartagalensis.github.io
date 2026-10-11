@@ -1,0 +1,48 @@
+---
+title: Defendiendo las PASO en Salta
+author: Franco Galeano
+date: '2020-08-04'
+slug: defendiendo-las-paso-en-salta
+temas:
+  - Elecciones
+  - Salta
+---
+
+
+Hace unos días un [senador provincial coterráneo](https://ariesonline.com.ar/contenido/40526/las-elecciones-paso-provinciales-podrian-desaparecer) presentó en su Cámara respectiva un proyecto de ley pidiendo la "derogación de la ley 7.697 de las primarias abiertas simultáneas y obligatorias en todo el territorio de la provincia de Salta, sus modificaciones y toda otras disposición que se oponga a la presente". Esto no es una novedad, quizás si el hecho de que se solicite en Salta. Casi todos los años, desde que las PASO entraron en vigencia, alguien decide en algún lado del país pedir su eliminación. En esta breve reflexión voy a intentar contrastar, con datos y argumentos de la ciencia política, cada punto que el legislador señala esperando dejar en claro por qué pienso que las PASO no son el problema.
+
+¿Qué son las PASO? Es el nombre vulgar con el que conocemos a la ley de elecciones primarias abiertas simultáneas y obligatorias, mecanismo mediante el cual elegimos a todos nuestros representantes de la provincia ya sea a nivel provincial o nacional. Son *primarias* porque se realizan antes de una elección general y sirven para que los ciudadanos (nosotros) puedan decidir quienes van a participar en esa elección general, en cierta forma actúan de filtro tanto fuera (hay que superar un umbral mínimo para ir a las generales) como dentro (para dirimir internas en algunos casos) de los partidos. 
+Son *abiertas* porque cualquier ciudadano habilitado a votar puede elegir al candidato que desea del partido que sea sin importar si son afiliados o no. 
+Son *simultáneas* porque se hace todo en el mismo dia para todos los partidos. 
+Y son *obligatorias* para nosotros y para aquellos partidos que deseen competir en las generales.
+
+Nacieron como respuesta a la crisis de 2001, que como menciona el politólogo Javier Zelaznik, afectó al sistema de partidos, erosionando identidades partidarias y profundizando la tendencia a subordinar la organización de los partidos al impacto mediático de los liderazgos. Un dato de color: en 2003 tuvimos 13 candidatos a presidente, un record historico. En el país las PASO existen desde 2009, pero en la provincia las usamos desde 2011.
+
+Ahora que sabemos brevemente que son, veamos los argumentos que aportan sus detractores para debatirlos uno a uno.
+
+*Critica 1. "No resuelven nada y son una gran encuesta".*
+
+Facundo Cruz menciona que las PASO son una herramienta para situaciones en los que los dirigentes no pueden llegar a una lista de unidad, su desuso no implica afirmar que no funcionan como herramienta para dirimir internas. A su vez, contribuyen contribuyen a depurar y ordenar la oferta electoral: simplifican la tarea del votante a la hora de ingresar a un cuarto oscuro, son menos los frentes y menores las listas.
+
+Gracias a las PASO hemos presenciado pisos históricos en cantidad de listas en todo el país, ya que incentivan a forjar alianzas. Sirven a los partidos para realizar acuerdos estables en el tiempo. ¿El caso de éxito? Cambiemos a nivel nacional. A estos partidos no solo les brindó un acuerdo estable, sino también poder ser competitivos.
+
+*Crítica 2. "La gente tiene que ir a votar muchas veces y eso produce molestia".*
+
+Si tal afirmación fuera cierta, veríamos niveles de participación menores al periodo pre PASO. Tal como el gráfico muestra, la participación electoral no ha caído desde que se incorporaron las PASO. Inclusive se han recuperado niveles de participación previos al 2001.
+
+Con respecto a elecciones en momentos de pandemias, contamos con tiempo y experiencias de otras latitudes para tomarlas de ejemplo. Suspenderlas no debería ser una alternativa, mejorarlas y tomar medidas precautorias si.
+
+*Critica 3. "Son costosas".*
+
+La democracia cuesta dinero, las elecciones no son gratis. Las elecciones provinciales de 2019 costaron aproximadamente 400 millones de pesos, un 0,52% del presupuesto destinado a ese año. Si realizamos el ejercicio para las nacionales, el presupuesto es de aproximadamente 0,6%. Tampoco está claro que si las eliminamos las elecciones serían más baratas: si aumentan los partidos aumentan costos logísticos y subsidios a cada partido.
+
+
+
+Por otro lado, tampoco está mal que la democracia cueste, es nuestra forma de elegir a quienes toman las decisiones más relevantes para la sociedad. Ya lo dijo Winston Churchill: "la democracia es el peor sistema de gobierno, excepto por todos los demás". Si la principal crítica a la democracia es por su costo, probablemente en esos detractores existan preferencias por otro régimen político. 
+
+¿Las PASO poseen defectos? Claro que si, como todo sistema. No han logrado democratizar al interior de todos los partidos. Pero en vez de pensar en eliminarlas deberíamos discutir medidas para mejorarlas, como podrían ser avanzar en la regulación del financiamiento de los partidos y mejorar los diseños de las boletas. Eliminando las primarias no solucionamos los problemas que tenemos, los incrementaremos.
+
+
+![](/cienciaypol/2021-08-04-defendiendo-las-paso-en-salta_files/Listas a diputados nacionales en Salta 1983-2019@2x.png){width=80%}
+
+> Si quieren observar el gráfico de manera interactiva pueden visitarlo en [Flourish](https://public.flourish.studio/visualisation/3207144/)

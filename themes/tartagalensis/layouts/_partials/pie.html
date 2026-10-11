@@ -1,0 +1,10 @@
+<footer class="pie-sitio">
+  <div class="wrap">
+    <span>TARTAGALENSIS · DESDE TARTAGAL, SALTA</span>
+    <span>
+      <a href="{{ "/index.xml" | relURL }}">RSS</a>
+      {{- with site.Params.linkedin }} · <a href="{{ . }}">LinkedIn</a>{{ end }}
+      {{- with site.Params.github }} · <a href="{{ . }}">GitHub</a>{{ end }}
+    </span>
+  </div>
+</footer>
