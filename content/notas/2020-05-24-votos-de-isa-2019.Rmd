@@ -2,14 +2,11 @@
 title: ¿Qué pasó con los votos de Isa en 2019?
 author: Franco Galeano
 date: '2020-05-24'
-slug: inferencia-ecológica-en-salta-2019
-categories:
+slug: votos-de-isa-2019
+temas:
   - Elecciones
-  - CienciaPolitica
   - Salta
-  - InferenciaEcologica
-tags:
-  - Salta
+  - Métodos
 ---
 
 

@@ -1,17 +1,11 @@
 ---
 title: 'Migración del voto: ¿de dónde vino la victoria de Massa?'
-author: "Package Build"
+author: "Franco Galeano"
 date: "2023-10-23"
-slug: "migraci-n-del-voto-de-d-nde-vino-la-victoria-de-massa"
-categories:
-- CienciaPolitica
-- CienciaPolítica
-- Elecciones
-- InferenciaEcologica
-- Opinión
-tags:
-- CienciaPolítica
-- Política Argentina
+slug: migracion-del-voto-2023
+temas:
+  - Elecciones
+  - Métodos
 ---
 
 

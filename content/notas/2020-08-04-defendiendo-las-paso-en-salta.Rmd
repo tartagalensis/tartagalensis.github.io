@@ -3,12 +3,8 @@ title: Defendiendo las PASO en Salta
 author: Franco Galeano
 date: '2020-08-04'
 slug: defendiendo-las-paso-en-salta
-categories:
-  - CienciaPolitica
+temas:
   - Elecciones
-  - Salta
-  - PASO
-tags:
   - Salta
 ---
 

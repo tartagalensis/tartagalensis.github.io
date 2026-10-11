@@ -2,10 +2,9 @@
 title: 'Desarrollo con raíces: una mirada desde el norte'
 author: Franco Galeano
 date: '2025-07-03'
-slug: desarrollo-con-ra-ces-una-mirada-desde-el-norte
-categories:
-  - Opinión
-tags:
+slug: desarrollo-con-raices
+temas:
+  - Desarrollo
   - Salta
 ---
 
