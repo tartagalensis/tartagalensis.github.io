@@ -1,0 +1,7 @@
+{{ define "main" }}
+<main class="wrap pagina">
+  <h1>{{ .Title }}</h1>
+  <article class="cuerpo">{{ .Content }}</article>
+  {{ if .Params.telegrama }}{{ partial "telegrama.html" . }}{{ end }}
+</main>
+{{ end }}

@@ -1,1 +1,17 @@
-{{/* Task 6 */}}
+{{- with site.Params.buttondown -}}
+<section class="telegrama" id="suscribirse">
+  <div class="sello">SIN FRANQUEO</div>
+  <div class="tit">TELEGRAMA · SUSCRIPCIÓN</div>
+  <div class="cuerpo-tel">
+    <p>Si te gustó y querés recibir las notas nuevas cuando salgan, suscribite.</p>
+    <form action="https://buttondown.com/api/emails/embed-subscribe/{{ . }}" method="post" target="_blank">
+      <label for="bd-email" style="position:absolute;left:-9999px">Tu correo</label>
+      <input type="email" name="email" id="bd-email" placeholder="tu@correo.com" required>
+      <input type="hidden" value="1" name="embed">
+      <button type="submit">ENVIAR</button>
+    </form>
+  </div>
+</section>
+{{- else -}}
+{{- warnidf "telegrama-sin-buttondown" "params.buttondown está vacío: no se muestra el telegrama de suscripción" -}}
+{{- end -}}

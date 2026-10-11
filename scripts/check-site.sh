@@ -86,6 +86,27 @@ assert_file 404.html
 # Review Focus 2: ningún ancho mínimo fijo mayor a 360px
 refute_grep css/main.css 'min-width:[4-9][0-9]{2}px'
 
+P=notas/defendiendo-las-paso-en-salta/index.html
+assert_grep $P 'class="telegrama"'
+assert_grep $P 'TELEGRAMA · SUSCRIPCIÓN'
+assert_grep $P 'SIN FRANQUEO'
+assert_grep $P 'Si te gustó y querés recibir las notas nuevas cuando salgan, suscribite\.'
+assert_grep $P 'action="https://buttondown\.com/api/emails/embed-subscribe/tartagalensis"'
+assert_grep $P '>ENVIAR<'
+refute_grep $P 'STOP'
+assert_file suscribirse/index.html
+assert_grep suscribirse/index.html 'class="telegrama"'
+assert_file index.xml
+assert_grep index.xml '<link>https://tartagalensis.github.io/notas/desarrollo-con-raices/</link>'
+assert_grep index.xml 'Tartagal, cuando hablamos de desarrollo'
+refute_grep index.xml 'prueba-sin-temas'
+refute_grep index.xml '/sobre-mi/'
+# Review Focus 5: sin usuario de Buttondown no hay formulario roto
+SIN="$OUT.sinbd"
+hugo --config config.toml,scripts/sin-buttondown.toml -d "$SIN" >"$SIN.log" 2>&1
+! grep -q 'embed-subscribe' "$SIN/notas/defendiendo-las-paso-en-salta/index.html" || { echo "FALLA: formulario sin usuario"; FALLAS=$((FALLAS+1)); }
+grep -q 'buttondown' "$SIN.log" || { echo "FALLA: no avisa que falta buttondown"; FALLAS=$((FALLAS+1)); }
+
 # --- fin checks ---
 if [ "$FALLAS" -gt 0 ]; then echo "$FALLAS falla(s). Build en $OUT"; exit 1; fi
 echo "OK. Build en $OUT"
