@@ -1,1 +1,14 @@
-{{ define "main" }}<main><h1>{{ site.Title }}</h1></main>{{ end }}
+{{ define "main" }}
+{{ $notas := where site.RegularPages "Section" "notas" }}
+{{ $publicadas := where $notas "Draft" false }}
+<main class="wrap">
+  <div class="acta-cab">
+    <div class="datos"><span>DISTRITO: SALTA</span><span>SECCIÓN: GRAL. SAN MARTÍN</span><span>MESA N.º {{ printf "%04d" (len $publicadas) }}</span></div>
+    <h1 class="nombre">TARTAGALENSIS</h1>
+    <div class="sub">ACTA DE NOTAS · ESCRUTINIO PERMANENTE</div>
+    <p class="presentacion">{{ site.Params.description }}</p>
+  </div>
+  {{ partial "acta.html" (dict "paginas" $notas) }}
+  {{ partial "telegrama.html" . }}
+</main>
+{{ end }}

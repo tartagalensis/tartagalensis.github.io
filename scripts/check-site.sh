@@ -66,6 +66,26 @@ refute_grep $D '[Ff]ig\.'
 hugo --quiet -d "$OUT.real" >/dev/null 2>&1
 [ ! -d "$OUT.real/notas/prueba-sin-temas" ] || { echo "FALLA: el draft se publica"; FALLAS=$((FALLAS+1)); }
 
+assert_grep index.html 'class="acta"'
+assert_grep index.html 'MESA N\.º 0005'
+assert_grep index.html 'DISTRITO: SALTA'
+assert_grep index.html 'Elecciones, federalismo y datos, desde el Norte\.'
+# orden: la más nueva primero
+primera=$(grep -oE 'href="/notas/[^"]+/"' "$OUT/index.html" | head -1)
+[ "$primera" = 'href="/notas/desarrollo-con-raices/"' ] || { echo "FALLA: orden de portada ($primera)"; FALLAS=$((FALLAS+1)); }
+refute_grep index.html 'prueba-sin-temas'
+assert_file notas/index.html
+assert_grep notas/index.html 'class="acta"'
+# Review Focus 4: temas sin tildes en la URL
+assert_file temas/politica-argentina/index.html
+assert_file temas/metodos/index.html
+assert_grep temas/metodos/index.html 'votos-de-isa-2019'
+refute_grep temas/metodos/index.html 'desarrollo-con-raices'
+assert_file temas/index.html
+assert_file 404.html
+# Review Focus 2: ningún ancho mínimo fijo mayor a 360px
+refute_grep css/main.css 'min-width:[4-9][0-9]{2}px'
+
 # --- fin checks ---
 if [ "$FALLAS" -gt 0 ]; then echo "$FALLAS falla(s). Build en $OUT"; exit 1; fi
 echo "OK. Build en $OUT"

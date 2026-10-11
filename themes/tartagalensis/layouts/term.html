@@ -1,0 +1,6 @@
+{{ define "main" }}
+<main class="wrap">
+  <h2 class="titulo-lista">Tema: {{ .Title }}</h2>
+  {{ partial "acta.html" (dict "paginas" .Pages) }}
+</main>
+{{ end }}

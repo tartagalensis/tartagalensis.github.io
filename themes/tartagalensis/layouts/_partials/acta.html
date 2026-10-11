@@ -1,0 +1,13 @@
+<table class="acta">
+  <thead><tr><th class="n">N.º</th><th>NOTA</th><th class="t">TEMA</th><th class="f">FECHA</th></tr></thead>
+  <tbody>
+  {{- range (where .paginas "Draft" false).ByDate.Reverse }}
+    <tr>
+      <td class="n">{{ partial "numero-nota.html" . }}</td>
+      <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+      <td class="t">{{ with .GetTerms "temas" }}{{ (index . 0).LinkTitle }}{{ else }}—{{ end }}</td>
+      <td class="f">{{ .Date.Format "02/01/06" }}</td>
+    </tr>
+  {{- end }}
+  </tbody>
+</table>
