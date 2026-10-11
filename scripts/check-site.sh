@@ -107,6 +107,12 @@ hugo --config config.toml,scripts/sin-buttondown.toml -d "$SIN" >"$SIN.log" 2>&1
 ! grep -q 'embed-subscribe' "$SIN/notas/defendiendo-las-paso-en-salta/index.html" || { echo "FALLA: formulario sin usuario"; FALLAS=$((FALLAS+1)); }
 grep -q 'buttondown' "$SIN.log" || { echo "FALLA: no avisa que falta buttondown"; FALLAS=$((FALLAS+1)); }
 
+assert_file sobre-mi/index.html
+assert_grep sobre-mi/index.html 'linkedin\.com/in/'
+refute_grep sobre-mi/index.html 'I am Franco'
+[ ! -d "$OUT/about" ] || { echo "FALLA: existe /about/"; FALLAS=$((FALLAS+1)); }
+assert_grep index.html 'href="https://(www\.)?linkedin\.com/in/[^"]+"[^>]*>LinkedIn<'
+
 # --- fin checks ---
 if [ "$FALLAS" -gt 0 ]; then echo "$FALLAS falla(s). Build en $OUT"; exit 1; fi
 echo "OK. Build en $OUT"
