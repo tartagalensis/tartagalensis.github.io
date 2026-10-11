@@ -1,5 +1,5 @@
 baseURL = "https://tartagalensis.github.io/"
-languageCode = "es-AR"
+locale = "es-AR"
 defaultContentLanguage = "es"
 title = "Tartagalensis"
 theme = "tartagalensis"

@@ -1,1 +1,17 @@
-{{ define "main" }}<main><h1>{{ .Title }}</h1>{{ .Content }}</main>{{ end }}
+{{ define "main" }}
+<main class="wrap">
+  <div class="formulario">
+    <div><span>NOTA N.º</span>{{ partial "numero-nota.html" . }}</div>
+    <div><span>FECHA</span>{{ .Date.Format "02/01/2006" }}</div>
+    <div><span>TEMA</span>{{ with .GetTerms "temas" }}{{ range $i, $t := . }}{{ if $i }} · {{ end }}<a href="{{ $t.RelPermalink }}">{{ upper $t.LinkTitle }}</a>{{ end }}{{ else }}—{{ end }}</div>
+    <div><span>LECTURA</span>{{ .ReadingTime }} MIN</div>
+  </div>
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.bajada }}<p class="bajada">{{ . }}</p>{{ end }}
+  {{ with .Params.author }}{{ if ne . site.Params.autor }}<p class="firma">Por {{ . }}</p>{{ end }}{{ end }}
+  <article class="cuerpo">
+    {{ .Content }}
+  </article>
+  {{ partial "telegrama.html" . }}
+</main>
+{{ end }}

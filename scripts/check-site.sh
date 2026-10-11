@@ -5,7 +5,7 @@ cd "$(dirname "$0")/.."
 OUT="$(mktemp -d)"
 FALLAS=0
 
-if ! hugo --gc -d "$OUT" > "$OUT.log" 2>&1; then
+if ! hugo --gc --buildDrafts -d "$OUT" > "$OUT.log" 2>&1; then
   echo "FALLA: hugo no compila"; cat "$OUT.log"; exit 1
 fi
 if grep -q "ERROR" "$OUT.log"; then
@@ -43,6 +43,28 @@ assert_grep index.html 'href="/suscribirse/"[^>]*>Suscribirse<'
 assert_grep index.html 'TARTAGALENSIS · DESDE TARTAGAL, SALTA'
 assert_grep index.html 'href="https://github.com/tartagalensis"'
 refute_grep index.html 'href=""'
+
+P=notas/defendiendo-las-paso-en-salta/index.html
+assert_grep $P 'class="formulario"'
+assert_grep $P '<span>NOTA N\.º</span>02'
+assert_grep $P '<span>FECHA</span>04/08/2020'
+assert_grep $P 'href="/temas/elecciones/"'
+assert_grep $P '<span>LECTURA</span>[0-9]+ MIN'
+assert_grep $P '<h1>Defendiendo las PASO en Salta</h1>'
+assert_grep notas/votos-de-isa-2019/index.html '<span>NOTA N\.º</span>01'
+assert_grep notas/desarrollo-con-raices/index.html '<span>NOTA N\.º</span>05'
+assert_grep notas/el-ultimo-tren/index.html 'Germán Epelbaum'
+# Review Focus 1: sin temas ni bajada
+D=notas/prueba-sin-temas/index.html
+assert_grep $D '<span>TEMA</span>—'
+refute_grep $D 'class="bajada"'
+# shortcode
+assert_grep $D 'class="casillero"'
+assert_grep $D 'class="rotulo">Listas a diputados nacionales en Salta, 1983–2019<'
+refute_grep $D '[Ff]ig\.'
+# el draft no debe salir en el build real
+hugo --quiet -d "$OUT.real" >/dev/null 2>&1
+[ ! -d "$OUT.real/notas/prueba-sin-temas" ] || { echo "FALLA: el draft se publica"; FALLAS=$((FALLAS+1)); }
 
 # --- fin checks ---
 if [ "$FALLAS" -gt 0 ]; then echo "$FALLAS falla(s). Build en $OUT"; exit 1; fi

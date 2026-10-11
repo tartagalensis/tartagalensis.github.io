@@ -1,0 +1,5 @@
+{{- $n := 0 -}}
+{{- range $i, $p := (where (where site.RegularPages "Section" "notas") "Draft" false).ByDate -}}
+  {{- if eq $p.RelPermalink $.RelPermalink }}{{ $n = add $i 1 }}{{ end -}}
+{{- end -}}
+{{- return (printf "%02d" $n) -}}
