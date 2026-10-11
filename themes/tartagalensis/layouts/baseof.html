@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Params.bajada }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+  <link rel="icon" href="{{ "favicon_nuevo.ico" | relURL }}">
+  {{ with site.Home.OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" href="{{ .Permalink }}" title="{{ site.Title }}">{{ end }}
+</head>
+<body>
+  {{ block "main" . }}{{ end }}
+</body>
+</html>
