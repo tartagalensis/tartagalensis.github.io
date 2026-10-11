@@ -34,6 +34,16 @@ while IFS= read -r img; do
   [ -n "$img" ] && assert_file "$(printf "%b" "${img//%/\\x}")"
 done < <(grep -ohE "src=\"/cienciaypol/[^\"]+\"" content/notas/*.html 2>/dev/null | sed "s/^src=\"\///; s/\"\$//")
 
+assert_file css/main.css
+assert_grep index.html 'fonts.googleapis.com/css2\?family=Courier\+Prime'
+assert_grep index.html 'class="marca"[^>]*>TARTAGALENSIS<'
+assert_grep index.html 'href="/notas/"[^>]*>Notas<'
+assert_grep index.html 'href="/sobre-mi/"[^>]*>Sobre mí<'
+assert_grep index.html 'href="/suscribirse/"[^>]*>Suscribirse<'
+assert_grep index.html 'TARTAGALENSIS · DESDE TARTAGAL, SALTA'
+assert_grep index.html 'href="https://github.com/tartagalensis"'
+refute_grep index.html 'href=""'
+
 # --- fin checks ---
 if [ "$FALLAS" -gt 0 ]; then echo "$FALLAS falla(s). Build en $OUT"; exit 1; fi
 echo "OK. Build en $OUT"

@@ -1,0 +1,103 @@
+:root{
+  --papel:#eef0ea; --tinta:#1d2a3a; --texto:#1f232a; --sello:#8a2a2a;
+  --gris:#4a5260; --suave:#3b4250; --casillero:#f7f8f4;
+  --mono:'Courier Prime','Courier New',monospace;
+  --serif:'Source Serif 4',Georgia,serif;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--papel);color:var(--texto);font-family:var(--serif);overflow-wrap:break-word}
+a{color:var(--tinta)}
+img,iframe,video{max-width:100%;height:auto}
+.wrap{max-width:700px;margin:0 auto;padding:0 20px}
+main.wrap{min-height:60vh}
+
+/* Cabecera */
+.cabecera{border-bottom:2px solid var(--tinta)}
+.cabecera .fila{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px 16px;padding:14px 20px}
+.marca{font-family:var(--mono);font-weight:700;font-size:20px;letter-spacing:2px;text-decoration:none;color:var(--tinta)}
+.cabecera nav a{font-family:var(--mono);margin-left:18px;text-decoration:none;text-transform:uppercase;font-size:13px;letter-spacing:1px}
+.cabecera nav a:first-child{margin-left:0}
+.cabecera nav a:hover{text-decoration:underline}
+
+/* Encabezado de nota: casilleros del acta */
+.formulario{margin-top:44px;border:2px solid var(--tinta);font-family:var(--mono);color:var(--tinta);font-size:13px;display:grid;grid-template-columns:repeat(4,1fr)}
+.formulario div{padding:8px 10px;border-right:1px solid var(--tinta);min-width:0}
+.formulario div:last-child{border-right:none}
+.formulario span{display:block;font-size:10px;letter-spacing:1px;opacity:.7}
+.formulario a{text-decoration:none}
+.formulario a:hover{text-decoration:underline}
+h1{font-family:var(--serif);font-size:44px;line-height:1.08;letter-spacing:-0.5px;margin:28px 0 12px;color:var(--tinta)}
+.bajada{font-size:21px;line-height:1.45;font-style:italic;color:var(--suave);margin:0 0 30px}
+.firma{font-family:var(--mono);font-size:13px;color:var(--gris);margin:0 0 30px}
+
+/* Cuerpo */
+.cuerpo p,.cuerpo li{font-size:19px;line-height:1.7}
+.cuerpo p{margin:0 0 1.2em}
+.cuerpo h2,.cuerpo h3{font-family:var(--mono);font-size:15px;font-weight:700;text-transform:uppercase;letter-spacing:1px;color:var(--tinta);border-top:1px solid var(--tinta);padding-top:14px;margin:2.2em 0 1em}
+.cuerpo h3{border-top-style:dotted}
+.cuerpo blockquote{margin:1.6em 0;padding:4px 0 4px 18px;border-left:3px solid var(--sello);font-style:italic;color:var(--suave)}
+.cuerpo blockquote p{font-size:18px}
+.cuerpo img{display:block;margin:1.6em auto}
+.cuerpo table{border-collapse:collapse;font-family:var(--mono);font-size:14px;display:block;overflow-x:auto;max-width:100%}
+.cuerpo th,.cuerpo td{border:1px solid var(--tinta);padding:4px 8px}
+.cuerpo pre{background:var(--casillero);border:1px solid var(--tinta);padding:12px;overflow-x:auto;font-size:14px}
+.cuerpo code{font-family:var(--mono)}
+.cuerpo .footnotes{font-size:15px;border-top:1px dotted var(--tinta);margin-top:3em;padding-top:1em}
+.cuerpo .footnotes p,.cuerpo .footnotes li{font-size:15px}
+
+/* Gráfico en casillero */
+.casillero{margin:2em 0;border:2px solid var(--tinta);background:var(--casillero)}
+.casillero .rotulo{font-family:var(--mono);font-size:13px;color:var(--tinta);padding:8px 12px;border-bottom:1px solid var(--tinta)}
+.casillero img{display:block;width:100%;height:auto;margin:0}
+.casillero .pie{font-family:var(--mono);font-size:12px;padding:8px 12px;border-top:1px dotted var(--tinta);color:var(--gris)}
+
+/* Portada: acta */
+.acta-cab{margin-top:44px;border:2px solid var(--tinta);border-bottom:none;font-family:var(--mono);color:var(--tinta)}
+.acta-cab .datos{display:flex;justify-content:space-between;flex-wrap:wrap;gap:4px 12px;font-size:11px;padding:8px 12px;border-bottom:1px solid var(--tinta)}
+.acta-cab .nombre{font-family:var(--serif);font-weight:700;font-size:40px;padding:10px 12px 0;margin:0}
+.acta-cab .sub{font-size:12px;letter-spacing:1px;padding:2px 12px 12px}
+.acta-cab .presentacion{font-family:var(--serif);font-style:italic;font-size:18px;color:var(--suave);padding:0 12px 14px;margin:0}
+.acta{width:100%;border-collapse:collapse;border:2px solid var(--tinta);font-family:var(--mono);color:var(--tinta);font-size:15px;table-layout:fixed}
+.acta th{text-align:left;font-size:11px;letter-spacing:1px;font-weight:400;padding:6px 8px;border-bottom:1px solid var(--tinta)}
+.acta td{padding:8px;border-bottom:1px dotted var(--tinta);vertical-align:top}
+.acta tr:last-child td{border-bottom:none}
+.acta .n{width:52px}
+.acta .f{width:96px;text-align:right}
+.acta .t{width:170px}
+.acta td.f{text-align:right}
+.acta a{text-decoration:none}
+.acta a:hover{text-decoration:underline}
+.titulo-lista{font-family:var(--mono);font-size:15px;text-transform:uppercase;letter-spacing:1px;color:var(--tinta);margin:44px 0 12px}
+
+/* Telegrama */
+.telegrama{margin:56px 0 40px;border:2px solid var(--tinta);font-family:var(--mono);color:var(--tinta);position:relative}
+.telegrama .tit{padding:10px 14px;border-bottom:1px solid var(--tinta);font-weight:700;letter-spacing:2px}
+.telegrama .cuerpo-tel{padding:14px}
+.telegrama p{font-size:15px;line-height:1.5;margin:0 0 12px}
+.telegrama form{display:flex;border:1px solid var(--tinta)}
+.telegrama input{flex:1;min-width:0;border:none;background:transparent;font-family:var(--mono);font-size:15px;padding:10px;color:var(--tinta)}
+.telegrama button{border:none;border-left:1px solid var(--tinta);background:var(--tinta);color:var(--papel);font-family:var(--mono);font-weight:700;letter-spacing:1px;padding:0 16px;cursor:pointer}
+.sello{position:absolute;right:16px;top:-14px;background:var(--papel);color:var(--sello);border:2px solid var(--sello);font-weight:700;font-size:12px;padding:2px 8px;transform:rotate(-4deg);letter-spacing:1px}
+
+/* Páginas simples */
+.pagina{padding-top:12px}
+
+/* Pie */
+.pie-sitio{border-top:2px solid var(--tinta);font-family:var(--mono);font-size:12px;color:var(--tinta);padding:16px 0 40px;margin-top:40px}
+.pie-sitio .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+
+@media (max-width:600px){
+  h1{font-size:32px}
+  .bajada{font-size:18px}
+  .cuerpo p,.cuerpo li{font-size:18px}
+  .formulario{grid-template-columns:1fr 1fr}
+  .formulario div:nth-child(2){border-right:none}
+  .formulario div:nth-child(-n+2){border-bottom:1px solid var(--tinta)}
+  .cabecera nav a{margin-left:10px;font-size:11px}
+  .acta-cab .nombre{font-size:28px}
+  .acta{font-size:13px}
+  .acta .t,.acta td.t{display:none}
+  .acta .n{width:36px}
+  .acta .f{width:78px}
+}
