@@ -113,6 +113,9 @@ refute_grep sobre-mi/index.html 'I am Franco'
 [ ! -d "$OUT/about" ] || { echo "FALLA: existe /about/"; FALLAS=$((FALLAS+1)); }
 assert_grep index.html 'href="https://(www\.)?linkedin\.com/in/[^"]+"[^>]*>LinkedIn<'
 
+# restos de citas pegadas desde ChatGPT
+for f in $(cd "$OUT" && find notas -name index.html); do refute_grep "$f" "contentReference|oaicite"; done
+
 # --- fin checks ---
 if [ "$FALLAS" -gt 0 ]; then echo "$FALLAS falla(s). Build en $OUT"; exit 1; fi
 echo "OK. Build en $OUT"

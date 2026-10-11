@@ -23,7 +23,7 @@ Las dos grandes coaliciones argentinas perdieron un volumen considerable de voto
 
 - **Juntos por el Cambio (JxC)** retuvo solo el **58%** de su electorado. El 42% restante:
   - Se dividió entre Milei, Juan Schiaretti y la apatía electoral.
-  - Llama la atención que casi todo el voto hacia Schiaretti provino del mismo Macri en 2019, lo que explica el plan de PRO de incluir al gobernador cordobés antes del cierre de alianzas. :contentReference[oaicite:2]{index=2}
+  - Llama la atención que casi todo el voto hacia Schiaretti provino del mismo Macri en 2019, lo que explica el plan de PRO de incluir al gobernador cordobés antes del cierre de alianzas.
 
 Por otro lado, el electorado de **La Libertad Avanza (Milei)** es un mosaico de orígenes:
 - Casi la totalidad de votantes de Centurión, Espert y Lavagna.
@@ -44,7 +44,7 @@ Para Milei, el incremento en votos fue resultado de:
 - Votos de quienes no participaron en PASO.
 - Una porción hacia Schiaretti.
 
-Patricia Bullrich retuvo su base de las PASO pero perdió casi **400.000 votos** en las generales de JxC. Entre ellos, más de un **25%** migró hacia Milei o Schiaretti, no hacia Massa, lo que cuestiona las expectativas de un traspaso hacia el peronismo. :contentReference[oaicite:5]{index=5}
+Patricia Bullrich retuvo su base de las PASO pero perdió casi **400.000 votos** en las generales de JxC. Entre ellos, más de un **25%** migró hacia Milei o Schiaretti, no hacia Massa, lo que cuestiona las expectativas de un traspaso hacia el peronismo.
 
 ---
 
