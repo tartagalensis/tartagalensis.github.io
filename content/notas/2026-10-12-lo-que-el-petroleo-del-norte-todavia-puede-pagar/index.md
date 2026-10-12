@@ -42,7 +42,7 @@ La tardía [auditoría de la AGPS](https://agps.salta.gob.ar/assets/informes/zip
 | Gasoducto Coronel Cornejo, estimado vs ejecutado | $2,5 vs $32,2 millones, 63% de avance |
 | Unidad de Plan de Obras Departamentales | No funcionaba al momento de la auditoría |
 
-El Fondo del Bicentenario repitió el patrón, con obras adjudicadas por la Provincia a empresas que no eran de la zona. El problema nunca fue el destino territorial de la plata. Fue quién la administró y en qué la gastó. Obra pública decidida desde Salta Capital, con sobrecostos y sin rendición, en lugar de capital que genere empleo cuando se cierre el último pozo.
+El Fondo del Bicentenario repitió el patrón de la centralización de la que tantos salteños elevan como queja a Buenos Aires. La Provincia otorgó las principales licitaciones a contratistas de Salta Capital o extraña jurisdicción, marginando a los proveedores locales de los departamentos productores. El verdadero problema no fue el destino de los fondos, sino la matriz de su administración. Se priorizó un circuito cerrado de empresas corporativas con sobrecostos y nula rendición, vaciando de recursos al norte en lugar de inyectar ese capital en el tejido productivo regional.
 
 ## Cuánta plata queda
 
