@@ -4,10 +4,10 @@ layout: pagina
 url: /sobre-mi/
 telegrama: true
 ---
-Soy Franco Galeano —en redes, Tartagalensis—, politólogo por la Universidad Torcuato Di Tella y científico de datos nacido en [Tartagal](https://www.google.com/maps?q=tartagal), Salta.
+Soy Franco Galeano, aunque en internet me conocen más como Tartagalensis. Nací en [Tartagal](https://www.google.com/maps?q=tartagal), en el norte de Salta, donde vivo y trabajo junto a mi familia.
 
-Acá dejo mis dos centavos sobre lo que me interese: elecciones y federalismo, pero también desarrollo, recursos naturales, ambiente, impuestos o lo que esté en discusión. Casi siempre con datos de por medio y casi siempre mirando desde el Norte. Algunas notas son análisis con modelos y gráficos; otras son opinión pura.
+Estudié Ciencia Política en la Di Tella (licenciatura y maestría) y después hice un MSc en Applied Social Data Science en Londres, en la London School of Economics, con la beca Chevening. En el camino trabajé en el Ministerio del Interior y en Mercado Libre, di clases en la Di Tella y fui tres años presidente del centro empresario de mi ciudad.
 
-También me gustan los deportes y lo que los datos tienen para decir de ellos, sobre todo en básquet, rugby y fútbol.
+Este blog es mi lugar para pensar en voz alta. Escribo de lo que me interesa: elecciones, política, el desarrollo de la región, deportes y datos, que casi siempre se meten en todo lo anterior. Algunas notas traen modelos y gráficos; otras son pura opinión. Son mis dos centavos.
 
-Si querés conocer mi recorrido profesional, está en [LinkedIn](https://www.linkedin.com/in/franco-galeano-arg/). El código de mis análisis está en [GitHub](https://github.com/tartagalensis).
+Si querés saber más de mi recorrido, está en [LinkedIn](https://www.linkedin.com/in/franco-galeano-arg/). El código de mis análisis, en [GitHub](https://github.com/tartagalensis).
