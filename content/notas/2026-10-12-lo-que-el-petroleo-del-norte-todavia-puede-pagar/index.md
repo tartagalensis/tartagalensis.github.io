@@ -34,13 +34,13 @@ Las regalías que reciben los municipios productores cayeron 54% en dólares ent
 
 {{< casillero src="/notas/lo-que-el-petroleo-del-norte-todavia-puede-pagar/regalias-municipios-productores.png" titulo="Regalías de gas y petróleo a municipios productores, en millones de USD" fuente="Contaduría General de Salta, planillas Ley 6438, 2018 a junio de 2026. Convertido mes a mes con el tipo de cambio BNA vendedor promedio" >}}
 
-En 2025 los seis municipios de San Martín recibieron $3.401 millones, alrededor de USD 2,7 millones. Retener entre 40% y 50% de eso da poco más de un millón de dólares por año, y en declive.
+En 2025 los seis municipios de San Martín recibieron $3.401 millones, alrededor de USD 2,7 millones, cifra que cada año va en declive.
 
-El argumento de que la renta se diluye hacia municipios no productores no se sostiene. La [Ley 6438](https://www.diputadosalta.gob.ar/digesto_leyes/1166/download_file), de 1986, reparte entre los municipios el 20% de las regalías que cobra la Provincia, y casi todo va a los departamentos productores. Los 45 municipios no productores recibieron $387 millones en 2025, el 6% de lo municipal.
+La [Ley 6438](https://www.diputadosalta.gob.ar/digesto_leyes/1166/download_file), de 1986, reparte entre los municipios el 20% de las regalías que cobra la Provincia, y casi todo ese 20% va a los departamentos productores.
 
-El 80% restante queda en la tesorería provincial. Con esa proporción, las regalías hidrocarburíferas de Salta rondaron los USD 24 millones en 2025, de los que la Provincia retuvo unos 19. Esa es la plata que hay que discutir.
+Pero el 80% restante queda en la tesorería provincial. Hablamos de unos USD 19 millones, de un total de USD 24 millones de regalías hidrocarburíferas en 2025. Esa es la plata que hay que discutir.
 
-Con un fondo de ese tamaño no hay banco de fomento de segundo piso. Hay, a lo sumo, uno o dos proyectos ancla por año, o un fondo de garantía que apalanque líneas del CFI y del BICE. El bono de prórroga de USD 2,2 millones equivale a casi dos años de esa retención, y por eso tiene que ir íntegro al fondo.
+La Provincia debe dejar de beneficiarse de un recurso que va disminuyendo y permitir la reconversión productiva antes de que sea demasiado tarde.
 
 ## Lo que nunca se hizo
 
