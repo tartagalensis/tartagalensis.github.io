@@ -1,0 +1,18 @@
+{{- /* Vista previa al compartir (Facebook, WhatsApp, X, LinkedIn) */ -}}
+{{- $img := "" -}}
+{{- with .Params.imagen }}{{ with $.Resources.GetMatch . }}{{ $img = .Permalink }}{{ end }}{{ end -}}
+{{- if not $img }}{{ with .Resources.ByType "image" }}{{ $img = (index . 0).Permalink }}{{ end }}{{ end -}}
+{{- if not $img }}{{ $img = "compartir.png" | absURL }}{{ end -}}
+{{- $desc := site.Params.description -}}
+{{- with .Params.bajada }}{{ $desc = . }}{{ else }}{{ if .IsPage }}{{ $desc = .Summary | plainify | htmlUnescape | truncate 200 }}{{ end }}{{ end }}
+  <meta property="og:site_name" content="{{ site.Title }}">
+  <meta property="og:locale" content="es_AR">
+  <meta property="og:type" content="{{ if and .IsPage (eq .Section "notas") }}article{{ else }}website{{ end }}">
+  <meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  <meta property="og:description" content="{{ $desc }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:image" content="{{ $img }}">
+  {{- if and .IsPage (eq .Section "notas") }}
+  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02" }}">
+  {{- end }}
+  <meta name="twitter:card" content="summary_large_image">

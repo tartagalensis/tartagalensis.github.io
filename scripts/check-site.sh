@@ -22,6 +22,9 @@ assert_grep index.html '<title>Tartagalensis</title>'
 assert_grep index.html 'lang="es-AR"'
 refute_grep index.html 'A Hugo website'
 assert_file favicon_nuevo.ico
+assert_file compartir.png
+assert_grep index.html 'og:image" content="https://tartagalensis.github.io/compartir.png"'
+assert_grep notas/lo-que-el-petroleo-del-norte-todavia-puede-pagar/index.html 'og:image" content="https://tartagalensis.github.io/notas/lo-que-el-petroleo-del-norte-todavia-puede-pagar/campamento-ia.jpg"'
 [ ! -d "$OUT/cv" ] || { echo "FALLA: existe /cv/"; FALLAS=$((FALLAS+1)); }
 [ ! -d "$OUT/post" ] || { echo "FALLA: existe /post/"; FALLAS=$((FALLAS+1)); }
 

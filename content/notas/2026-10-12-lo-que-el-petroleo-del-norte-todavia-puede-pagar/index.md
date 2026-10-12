@@ -3,6 +3,7 @@ title: 'Lo que el petróleo del norte todavía puede pagar'
 author: Franco Galeano
 date: '2026-10-12'
 slug: lo-que-el-petroleo-del-norte-todavia-puede-pagar
+imagen: campamento-ia.jpg
 temas:
   - Desarrollo
   - Salta
