@@ -52,13 +52,11 @@ Por eso es necesario que nuestros representantes creen una ley provincial con do
 
 ## Un fondo que no administre la política
 
-La renta tiene que quedarse donde se extrae solo si deja de administrarla la política. Esa es la lección del FRH.
+De ahí nace como idea la creación del Fondo Provincial de Reconversión Productiva del Norte Salteño. Un fondo que nace con la idea de ser el motor de cambio para modernizar, transformar y potenciar sectores del norte de la provincia que necesitan adaptarse a una nueva realidad (para evitar ser un “pueblo fantasma”, como dijo nuestro actual gobernador alguna vez). Como lección del FRH, la renta tiene que quedarse donde se extrae solo si deja de estar en manos de la política.
 
-**Fondeo.** El bono de prórroga de Acambuco íntegro, más una retención en la fuente de entre 40% y 50% de las regalías municipales, derivada por el agente financiero a una cuenta fiduciaria inembargable antes de llegar a Rentas Generales. Y la discusión de fondo con la Provincia, que es la parte que hoy retiene.
+¿Y de dónde sacamos la plata? A partir del bono de prórroga de Acambuco (USD 2,2 millones) e ir sumando lo que la Provincia recauda de regalías. Que esto vaya rindiendo intereses, y luego de determinado tiempo una parte sea destinada a préstamos en la zona. Este fondo se podría utilizar para préstamos para bienes de capital, con tasa de fomento, plazos de gracia según el ciclo de cada actividad y repago que vuelve al fondo.
 
-**Crédito, no subsidio.** Préstamos para bienes de capital, con tasa de fomento, plazos de gracia según el ciclo de cada actividad y repago que vuelve al fondo. Nada a fondo perdido.
-
-**Gobernanza.**
+El mismo debería tener un esquema de gobernanza.
 
 1. Un operador financiero profesional evalúa y otorga cada crédito con criterios técnicos.
 2. Un directorio con las cámaras empresarias de la zona, los sindicatos de las ramas productivas, el Consejo Económico y Social y la UNSa Sede Tartagal fija prioridades y controla. No adjudica operaciones individuales.
@@ -66,23 +64,15 @@ La renta tiene que quedarse donde se extrae solo si deja de administrarla la pol
 4. Publicación abierta de cada crédito con monto, tasa, beneficiario y estado de repago.
 5. Municipios y Provincia auditan, pero no votan adjudicaciones.
 
-**Criterios, no sectores.** La ley fija elegibilidad por bienes de capital, empleo registrado por peso prestado, repago verificable y contenido local. Lo que entra es amplio. Café, apicultura, palta, valor agregado al cerdo más allá del matadero municipal, formalización del cluster maderero, economía del conocimiento, logística para el corredor bioceánico y talleres metalmecánicos que abastezcan a ese cluster local.
+La ley podría fijar elegibilidad por bienes de capital, empleo registrado por peso prestado, repago verificable y contenido local. Lo que entra es amplio. Café, apicultura, palta, valor agregado a las proteínas que produce el norte, formalización del cluster maderero, economía del conocimiento, logística para el corredor bioceánico y talleres metalmecánicos que abastezcan a ese cluster local.
 
-## Remediación de pozos, una obligación que hay que cobrar
+## El pasivo ambiental
 
-El abandono y la remediación de los pozos inactivos son obligación de las concesionarias, y no pueden quedar como pasivo para cuando se vayan. La prórroga hasta 2046 es el momento de exigirlo, porque es la última vez que la Provincia tiene algo que negociar.
-
-- Garantía de abandono constituida ahora, proporcional a los pozos inactivos de cada área, ejecutable si la operadora se retira sin remediar.
-- Cronograma público de taponamiento y remediación, con informe anual por pozo.
-- Cupo de contratación local para pulling, cementación, soldadura y movimiento de suelos.
-
-Eso no cuesta un peso del fondo y genera trabajo para la misma gente que hoy rota a Neuquén.
+Por último, y no por ello menos importante, muchas de las empresas que operan y han operado en la zona dejaron un pasivo ambiental terrible, uno de los peores manejos de abandono de pozos del país. Es imprescindible que la Provincia presione, y que presionemos a la Provincia, para que esto tenga solución. A la vez, eso generará trabajo para una parte de nuestra población.
 
 ## Lo que queda en la superficie
 
 El Decreto 617/26 ya fijó las condiciones del petróleo hasta 2046. Lo que falta definir es si el remanente de esa renta se vuelve a gastar en gastos corrientes, se malgasta como se gastó el FRH, o si por primera vez financia la economía que va a seguir en pie cuando se cierre el último pozo. Esa decisión no la toman las petroleras. La tomamos nosotros.
-
-*Declaración de intereses. Fui presidente del Centro Empresario de Tartagal entre 2022 y 2025. Mi familia tiene producción porcina en Aguaray y tengo emprendimientos en marcha en algunos de los sectores mencionados.*
 
 ## Fuentes
 
