@@ -6,3 +6,8 @@
 public/
 resources/
 .hugo_build.lock
+
+# Herramientas locales de Claude (no van al repo)
+CLAUDE.md
+docs/superpowers/
+.DS_Store
