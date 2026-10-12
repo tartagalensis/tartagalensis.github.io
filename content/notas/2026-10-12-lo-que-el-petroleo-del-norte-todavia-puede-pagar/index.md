@@ -16,7 +16,7 @@ De poco sirve lamentarse por lo sucedido, la nostalgia no nos dará de comer. La
 
 ## Un declive que ya ocurrió
 
-La producción de gas de Salta cayó más de 80% desde su pico. Ramos, Aguaragüe y Acambuco fueron durante una década el corazón energético del norte argentino. Hoy la provincia no llega a 3,5 millones de metros cúbicos diarios y Acambuco produce cerca de 1,35 millones. La reversión del Gasoducto Norte cerró el ciclo, y el NOA pasó a recibir gas de Vaca Muerta.
+En el norte salteño se explota petróleo desde comienzos de la década del 30. General Mosconi, Tartagal y Aguaray crecieron alrededor de esa actividad, y el último gran ciclo, el del gas de Ramos, Aguaragüe y Acambuco, convirtió a la zona en el corazón energético del norte argentino. Ese ciclo también terminó. La producción de gas de Salta cayó más de 80% desde su pico. Hoy la provincia no llega a 3,5 millones de metros cúbicos diarios y Acambuco produce cerca de 1,35 millones. La reversión del Gasoducto Norte cerró el ciclo, y el NOA pasó a recibir gas de Vaca Muerta.
 
 {{< casillero src="/notas/lo-que-el-petroleo-del-norte-todavia-puede-pagar/produccion-salta-vs-pais.png" titulo="Producción de gas y petróleo, Salta vs. resto del país (índice 2003 = 100)" fuente="Secretaría de Energía, SESCO, producción promedio diaria por provincia, 1993 a 2025" >}}
 
@@ -26,7 +26,7 @@ En los campamentos de Tartagal, Vespucio y Aguaray llegaron a operar entre cuatr
 
 Salta es hoy una provincia minera. La nueva renta está en los minerales de la Puna, y la discusión sobre cómo se reparte ya se está dando sin el norte en la mesa. El petróleo del departamento San Martín dejó de ser el motor de la provincia y pasó a ser un remanente.
 
-Mientras el norte generaba esa renta, la inversión productiva provincial se localizó en otros lados. Güemes consolidó su parque industrial. Cafayate tiene un centro de convenciones para el turismo de reuniones. La economía del conocimiento se impulsó con fuerza en Capital. En el norte no quedó un solo activo productivo de esa escala financiado con la renta del subsuelo.
+Durante las décadas en que el norte generó esa renta, la inversión productiva provincial se localizó en otros lados. Güemes consolidó su parque industrial. Cafayate tiene un centro de convenciones para el turismo de reuniones. La economía del conocimiento se impulsó con fuerza en Capital. En el norte no quedó un solo activo productivo de esa escala financiado con la renta del subsuelo.
 
 ## Cuánta plata queda
 
@@ -44,7 +44,7 @@ Con un fondo de ese tamaño no hay banco de fomento de segundo piso. Hay, a lo s
 
 ## Lo que nunca se hizo
 
-El gas y el petróleo son recursos que se agotan. Cada metro cúbico que sale del suelo es capital que se pierde, y la regalía es de lo poco que queda a cambio en este contexto de abandono. Gastarla en sueldos y funcionamiento es comerse ese dinero que año a año es menos. Sería prudente no esperar al cierre del último pozo para darnos cuenta de que es una medida errada la actual. Por eso, lo que Salta hizo durante treinta años con la renta petrolera no tiene ningún tipo de sentido y es dañino a futuro. Y lo que nunca se hizo fue lo obvio, convertir esa renta en otra cosa que siga produciendo.
+El gas y el petróleo son recursos que se agotan. Cada metro cúbico que sale del suelo es capital que se pierde, y la regalía es de lo poco que queda a cambio en este contexto de abandono. Gastarla en sueldos y funcionamiento es comerse ese dinero que año a año es menos. Sería prudente no esperar al cierre del último pozo para darnos cuenta de que es una medida errada la actual. Por eso, lo que Salta hizo durante casi un siglo con la renta petrolera no tiene ningún tipo de sentido y es dañino a futuro. Y lo que nunca se hizo fue lo obvio, convertir esa renta en otra cosa que siga produciendo.
 
 Y cuando se intentó algo, salió mal. En 2011 la Ley 7.691 creó el [Fondo de Reparación Histórica](https://www.salta.gob.ar/prensa/noticias/la-provincia-creara-un-fondo-de-reparacion-historica-para-el-norte-saltenio-de-800-millones-13184) para Orán, Rivadavia y San Martín. La Provincia emitió hasta USD 220 millones en deuda garantizada con las regalías y prometió 176 obras. Según la [auditoría de la AGPS](https://agps.salta.gob.ar/assets/informes/zips/242-7850-20.pdf), se gastó el triple de lo previsto, más de la mitad del importe de la muestra auditada no tenía expediente o documentación completa y la unidad que debía planificar las obras ni siquiera funcionaba. El Fondo del Bicentenario repitió el patrón. El error fue demasiado evidente para repetirlo. La salida no puede ser volver a endeudarse contra las regalías, ni dejar que la Provincia o los municipios decidan solos en qué gastarlas.
 
