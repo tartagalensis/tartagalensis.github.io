@@ -18,6 +18,8 @@ De poco sirve lamentarse por lo sucedido, la nostalgia no nos dará de comer. La
 
 La producción de gas de Salta cayó más de 80% desde su pico. Ramos, Aguaragüe y Acambuco fueron durante una década el corazón energético del norte argentino. Hoy la provincia no llega a 3,5 millones de metros cúbicos diarios y Acambuco produce cerca de 1,35 millones. La reversión del Gasoducto Norte cerró el ciclo, y el NOA pasó a recibir gas de Vaca Muerta.
 
+{{< casillero src="/notas/lo-que-el-petroleo-del-norte-todavia-puede-pagar/produccion-salta-vs-pais.png" titulo="Producción de gas y petróleo, Salta vs. resto del país (índice 2003 = 100)" fuente="Secretaría de Energía, SESCO, producción promedio diaria por provincia, 1993 a 2025" >}}
+
 En los campamentos de Tartagal, Vespucio y Aguaray llegaron a operar entre cuatro y seis equipos de perforación en simultáneo. Hoy no hay ninguno activo en la provincia. Quedaron cuadrillas de workover y pulling. Los torneros, soldadores y técnicos formados en la escuela petrolera rotan a Neuquén, a la Puna o se quedan en una plaza local descapitalizada.
 
 ## Las reglas del juego cambiaron
@@ -25,12 +27,6 @@ En los campamentos de Tartagal, Vespucio y Aguaray llegaron a operar entre cuatr
 Salta es hoy una provincia minera. La nueva renta está en los minerales de la Puna, y la discusión sobre cómo se reparte ya se está dando sin el norte en la mesa. El petróleo del departamento San Martín dejó de ser el motor de la provincia y pasó a ser un remanente.
 
 Mientras el norte generaba esa renta, la inversión productiva provincial se localizó en otros lados. Güemes consolidó su parque industrial. Cafayate tiene un centro de convenciones para el turismo de reuniones. La economía del conocimiento se impulsó con fuerza en Capital. En el norte no quedó un solo activo productivo de esa escala financiado con la renta del subsuelo.
-
-## Ya lo intentamos, y lo administró la política
-
-No es la primera vez que al norte le prometen su renta. En 2011 la Ley 7.691 creó el [Fondo de Reparación Histórica](https://www.salta.gob.ar/prensa/noticias/la-provincia-creara-un-fondo-de-reparacion-historica-para-el-norte-saltenio-de-800-millones-13184) para Orán, Rivadavia y San Martín. Para financiarlo, la Provincia emitió hasta USD 220 millones en títulos de deuda garantizados con las regalías hidrocarburíferas, y prometió 176 obras entre 2012 y 2015. Según la [auditoría de la AGPS](https://agps.salta.gob.ar/assets/informes/zips/242-7850-20.pdf), se gastó el triple de lo previsto, más de la mitad del importe de la muestra auditada no tenía expediente o documentación completa y la unidad que debía planificar las obras ni siquiera funcionaba.
-
-El Fondo del Bicentenario repitió el patrón de la centralización de la que tantos salteños elevan como queja a Buenos Aires. La Provincia otorgó las principales licitaciones a contratistas de Salta Capital o extraña jurisdicción, marginando a los proveedores locales de los departamentos productores. El verdadero problema no fue el destino de los fondos, sino la matriz de su administración. Se priorizó un circuito cerrado de empresas corporativas con sobrecostos y nula rendición, vaciando de recursos al norte en lugar de inyectar ese capital en el tejido productivo regional.
 
 ## Cuánta plata queda
 
@@ -49,6 +45,8 @@ Con un fondo de ese tamaño no hay banco de fomento de segundo piso. Hay, a lo s
 ## Lo que nunca se hizo
 
 El gas y el petróleo son recursos que se agotan. Cada metro cúbico que sale del suelo es capital que se pierde, y la regalía es de lo poco que queda a cambio en este contexto de abandono. Gastarla en sueldos y funcionamiento es comerse ese dinero que año a año es menos. Sería prudente no esperar al cierre del último pozo para darnos cuenta de que es una medida errada la actual. Por eso, lo que Salta hizo durante treinta años con la renta petrolera no tiene ningún tipo de sentido y es dañino a futuro. Y lo que nunca se hizo fue lo obvio, convertir esa renta en otra cosa que siga produciendo.
+
+Y cuando se intentó algo, salió mal. En 2011 la Ley 7.691 creó el [Fondo de Reparación Histórica](https://www.salta.gob.ar/prensa/noticias/la-provincia-creara-un-fondo-de-reparacion-historica-para-el-norte-saltenio-de-800-millones-13184) para Orán, Rivadavia y San Martín. La Provincia emitió hasta USD 220 millones en deuda garantizada con las regalías y prometió 176 obras. Según la [auditoría de la AGPS](https://agps.salta.gob.ar/assets/informes/zips/242-7850-20.pdf), se gastó el triple de lo previsto, más de la mitad del importe de la muestra auditada no tenía expediente o documentación completa y la unidad que debía planificar las obras ni siquiera funcionaba. El Fondo del Bicentenario repitió el patrón. El error fue demasiado evidente para repetirlo. La salida no puede ser volver a endeudarse contra las regalías, ni dejar que la Provincia o los municipios decidan solos en qué gastarlas.
 
 Por eso es necesario que nuestros representantes creen una ley provincial con dos partes. La primera, que las regalías hidrocarburíferas, provinciales y municipales, dejen de financiar gasto corriente. La segunda, que esa plata vaya a un Fondo de Reconversión Productiva del Norte Salteño, con afectación exclusiva a los departamentos productores.
 
@@ -88,6 +86,7 @@ El Decreto 617/26 ya fijó las condiciones del petróleo hasta 2046. Lo que falt
 
 ## Fuentes
 
+- [Secretaría de Energía, producción de gas y petróleo (SESCO)](https://datos.gob.ar/dataset/produccion-de-petroleo-y-gas-tablas-dinamicas)
 - [Fondo de Reparación Histórica, anuncio oficial (2011)](https://www.salta.gob.ar/prensa/noticias/la-provincia-creara-un-fondo-de-reparacion-historica-para-el-norte-saltenio-de-800-millones-13184)
 - [AGPS, auditoría del Fondo de Reparación Histórica](https://agps.salta.gob.ar/assets/informes/zips/242-7850-20.pdf)
 - [Ley 6438, Diputados de Salta](https://www.diputadosalta.gob.ar/digesto_leyes/1166/download_file)
