@@ -56,13 +56,7 @@ De ahí nace como idea la creación del Fondo Provincial de Reconversión Produc
 
 ¿Y de dónde sacamos la plata? A partir del bono de prórroga de Acambuco (USD 2,2 millones) e ir sumando lo que la Provincia recauda de regalías. Que esto vaya rindiendo intereses, y luego de determinado tiempo una parte sea destinada a préstamos en la zona. Este fondo se podría utilizar para préstamos para bienes de capital, con tasa de fomento, plazos de gracia según el ciclo de cada actividad y repago que vuelve al fondo.
 
-El mismo debería tener un esquema de gobernanza.
-
-1. Un operador financiero profesional evalúa y otorga cada crédito con criterios técnicos.
-2. Un directorio con las cámaras empresarias de la zona, los sindicatos de las ramas productivas, el Consejo Económico y Social y la UNSa Sede Tartagal fija prioridades y controla. No adjudica operaciones individuales.
-3. Excusación obligatoria cuando un miembro del directorio, o su empresa, sea solicitante.
-4. Publicación abierta de cada crédito con monto, tasa, beneficiario y estado de repago.
-5. Municipios y Provincia auditan, pero no votan adjudicaciones.
+El fondo debería tener un esquema de gobernanza que lo proteja de la política. Cada crédito lo evalúa y lo otorga un operador financiero profesional, con criterios técnicos. Las prioridades las fija y las controla un directorio integrado por las cámaras empresarias de la zona, los sindicatos de las ramas productivas, el Consejo Económico y Social y la UNSa Sede Tartagal, que no adjudica operaciones individuales y cuyos miembros se excusan cuando ellos o sus empresas piden un crédito. Cada préstamo se publica con monto, tasa, beneficiario y estado de repago. Municipios y Provincia auditan, pero no votan adjudicaciones.
 
 La ley podría fijar elegibilidad por bienes de capital, empleo registrado por peso prestado, repago verificable y contenido local. Lo que entra es amplio. Café, apicultura, palta, valor agregado a las proteínas que produce el norte, formalización del cluster maderero, economía del conocimiento, logística para el corredor bioceánico y talleres metalmecánicos que abastezcan a ese cluster local.
 
