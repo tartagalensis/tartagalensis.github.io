@@ -28,19 +28,7 @@ Mientras el norte generaba esa renta, la inversión productiva provincial se loc
 
 ## Ya lo intentamos, y lo administró la política
 
-La renta petrolera ya se quedó una vez en el norte, y no dejó nada productivo. En 2011 la Ley 7.691 creó el [Fondo de Reparación Histórica](https://www.salta.gob.ar/prensa/noticias/la-provincia-creara-un-fondo-de-reparacion-historica-para-el-norte-saltenio-de-800-millones-13184) para Orán, Rivadavia y San Martín, fondeado con el 100% de las regalías hidrocarburíferas del Ejecutivo. Las obras debían ejecutarse entre 2012 y 2015 en cloacas, agua, gas, caminos, escuelas y salud.
-
-La tardía [auditoría de la AGPS](https://agps.salta.gob.ar/assets/informes/zips/242-7850-20.pdf) muestra el resultado.
-
-| Indicador | Valor |
-| --- | --- |
-| Obras previstas por ley | 176 |
-| Monto estimado | $924,8 millones |
-| Ejecución total | $2.810,8 millones |
-| Financiado con FRH | $1.048,0 millones |
-| Muestra de Obras Públicas sin expediente o sin documentación completa | 53,5% del importe |
-| Gasoducto Coronel Cornejo, estimado vs ejecutado | $2,5 vs $32,2 millones, 63% de avance |
-| Unidad de Plan de Obras Departamentales | No funcionaba al momento de la auditoría |
+No es la primera vez que al norte le prometen su renta. En 2011 la Ley 7.691 creó el [Fondo de Reparación Histórica](https://www.salta.gob.ar/prensa/noticias/la-provincia-creara-un-fondo-de-reparacion-historica-para-el-norte-saltenio-de-800-millones-13184) para Orán, Rivadavia y San Martín. Para financiarlo, la Provincia emitió hasta USD 220 millones en títulos de deuda garantizados con las regalías hidrocarburíferas, y prometió 176 obras entre 2012 y 2015. Según la [auditoría de la AGPS](https://agps.salta.gob.ar/assets/informes/zips/242-7850-20.pdf), se gastó el triple de lo previsto, más de la mitad del importe de la muestra auditada no tenía expediente o documentación completa y la unidad que debía planificar las obras ni siquiera funcionaba.
 
 El Fondo del Bicentenario repitió el patrón de la centralización de la que tantos salteños elevan como queja a Buenos Aires. La Provincia otorgó las principales licitaciones a contratistas de Salta Capital o extraña jurisdicción, marginando a los proveedores locales de los departamentos productores. El verdadero problema no fue el destino de los fondos, sino la matriz de su administración. Se priorizó un circuito cerrado de empresas corporativas con sobrecostos y nula rendición, vaciando de recursos al norte en lugar de inyectar ese capital en el tejido productivo regional.
 
@@ -58,9 +46,15 @@ El 80% restante queda en la tesorería provincial. Con esa proporción, la Provi
 
 Con un fondo de ese tamaño no hay banco de fomento de segundo piso. Hay, a lo sumo, uno o dos proyectos ancla por año, o un fondo de garantía que apalanque líneas del CFI y del BICE. El bono de prórroga de USD 2,2 millones equivale a casi dos años de esa retención, y por eso tiene que ir íntegro al fondo.
 
+## Lo que nunca se hizo
+
+El gas y el petróleo son recursos que se agotan. Cada metro cúbico que sale del suelo es capital que se pierde, y la regalía es de lo poco que queda a cambio en este contexto de abandono. Gastarla en sueldos y funcionamiento es comerse ese dinero que año a año es menos. Sería prudente no esperar al cierre del último pozo para darnos cuenta de que es una medida errada la actual. Por eso, lo que Salta hizo durante treinta años con la renta petrolera no tiene ningún tipo de sentido y es dañino a futuro. Y lo que nunca se hizo fue lo obvio, convertir esa renta en otra cosa que siga produciendo.
+
+Por eso es necesario que nuestros representantes creen una ley provincial con dos partes. La primera, que las regalías hidrocarburíferas, provinciales y municipales, dejen de financiar gasto corriente. La segunda, que esa plata vaya a un Fondo de Reconversión Productiva del Norte Salteño, con afectación exclusiva a los departamentos productores.
+
 ## Un fondo que no administre la política
 
-La renta tiene que quedarse donde se extrae solo si deja de administrarla la política. Esa es la lección del FRH. Propongo una ley provincial que cree el Fondo de Capitalización Productiva del Norte Salteño, con afectación exclusiva a los departamentos productores.
+La renta tiene que quedarse donde se extrae solo si deja de administrarla la política. Esa es la lección del FRH.
 
 **Fondeo.** El bono de prórroga de Acambuco íntegro, más una retención en la fuente de entre 40% y 50% de las regalías municipales, derivada por el agente financiero a una cuenta fiduciaria inembargable antes de llegar a Rentas Generales. Y la discusión de fondo con la Provincia, que es la parte que hoy retiene.
 
