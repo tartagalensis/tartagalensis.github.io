@@ -25,10 +25,11 @@ assert_file favicon_nuevo.ico
 assert_file compartir.png
 assert_grep index.html 'og:image" content="https://tartagalensis.github.io/compartir.png"'
 assert_grep notas/lo-que-el-petroleo-del-norte-todavia-puede-pagar/index.html 'og:image" content="https://tartagalensis.github.io/notas/lo-que-el-petroleo-del-norte-todavia-puede-pagar/campamento-ia.jpg"'
+assert_grep notas/por-que-siempre-somos-shelbyville/index.html 'og:image" content="https://tartagalensis.github.io/notas/por-que-siempre-somos-shelbyville/shelbyville.jpg"'
 [ ! -d "$OUT/cv" ] || { echo "FALLA: existe /cv/"; FALLAS=$((FALLAS+1)); }
 [ ! -d "$OUT/post" ] || { echo "FALLA: existe /post/"; FALLAS=$((FALLAS+1)); }
 
-for s in votos-de-isa-2019 defendiendo-las-paso-en-salta el-ultimo-tren migracion-del-voto-2023 al-norte-no-le-falta-diagnostico lo-que-el-petroleo-del-norte-todavia-puede-pagar; do
+for s in votos-de-isa-2019 defendiendo-las-paso-en-salta el-ultimo-tren migracion-del-voto-2023 al-norte-no-le-falta-diagnostico lo-que-el-petroleo-del-norte-todavia-puede-pagar por-que-siempre-somos-shelbyville; do
   assert_file "notas/$s/index.html"
 done
 [ ! -d "$OUT/cienciaypol/votos-de-isa-2019" ] && [ ! -d "$OUT/random" ] || { echo "FALLA: quedan secciones viejas"; FALLAS=$((FALLAS+1)); }
@@ -70,12 +71,12 @@ hugo --quiet -d "$OUT.real" >/dev/null 2>&1
 [ ! -d "$OUT.real/notas/prueba-sin-temas" ] || { echo "FALLA: el draft se publica"; FALLAS=$((FALLAS+1)); }
 
 assert_grep index.html 'class="acta"'
-assert_grep index.html 'MESA N\.º 0006'
+assert_grep index.html 'MESA N\.º 0007'
 assert_grep index.html 'DISTRITO: SALTA'
 assert_grep index.html 'Mis dos centavos sobre lo que pasa, desde el Norte\.'
 # orden: la más nueva primero
 primera=$(grep -oE 'href="/notas/[^"]+/"' "$OUT/index.html" | head -1)
-[ "$primera" = 'href="/notas/lo-que-el-petroleo-del-norte-todavia-puede-pagar/"' ] || { echo "FALLA: orden de portada ($primera)"; FALLAS=$((FALLAS+1)); }
+[ "$primera" = 'href="/notas/por-que-siempre-somos-shelbyville/"' ] || { echo "FALLA: orden de portada ($primera)"; FALLAS=$((FALLAS+1)); }
 refute_grep index.html 'prueba-sin-temas'
 assert_file notas/index.html
 assert_grep notas/index.html 'class="acta"'
